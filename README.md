@@ -7,7 +7,7 @@ Thanks to this module, customers can continue shopping directly from the page th
 
 Do Agency is a little team in Italy, specialized in Magento 2 development. Do Agency helps companies in Europe, to develop their e-commerce and marketing projects.
 
-## Get it on: https://marketplace.magento.com/
+## Get it on: https://marketplace.magento.com/doagency-wishlist-no-redirect.html
 
 ## Key Features:
 - Avoid redirect after adding a product to the wishlist.
